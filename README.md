@@ -122,7 +122,7 @@ If you find this repository useful in your research, please kindly cite our pape
 @inproceedings{zhou2024less,
     title       = {Less is More: One-shot Subgraph Reasoning on Large-scale Knowledge Graphs},
     author      = {Zhanke Zhou and Yongqi Zhang and Jiangchao Yao and Quanming Yao and Bo Han},
-    booktitle   = {ICLR},
+    booktitle   = {The Twelfth International Conference on Learning Representations},
     year        = {2024}
 }
 ```
