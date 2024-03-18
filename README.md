@@ -1,6 +1,6 @@
 # One-shot Subgraph Reasoning
 
-Official code for the paper "Less is More: One-shot Subgraph Reasoning on Large-scale Knowledge Graphs" (ICLR 2024).
+Official code for the paper "[Less is More: One-shot Subgraph Reasoning on Large-scale Knowledge Graphs](https://arxiv.org/pdf/2403.10231.pdf)" (ICLR 2024).
 
 ## Introduction
 
